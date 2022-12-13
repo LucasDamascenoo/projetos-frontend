@@ -1,0 +1,61 @@
+:root {
+  --bg-botao: #8e2424;
+  --color-numeros: #8e2424;
+  --color-text: #667085;
+  --color-headers: #101828;
+}
+
+body {
+  font-size: 62.5%;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* //layout */
+.header {
+  display: flex;
+  justify-content: space-around;
+  font-size: 1.5rem;
+  padding: 1rem;
+}
+
+.header__logo {
+  display: flex;
+  align-items: center;
+  gap: 1.2rem;
+}
+
+.logo__text {
+  color: var(--color-text);
+}
+
+.logo__img {
+  width: 2.7rem;
+  height: 2.699rem;
+}
+
+.nav__list {
+  display: flex;
+  align-items: center;
+  gap: 2.8rem;
+}
+
+/* listas */
+
+.nav__list__items {
+  list-style: none;
+}
+
+.list__items__link {
+  text-decoration: none;
+  color: var(--color-text);
+}
+
+.primary__button {
+  color: white;
+  background: var(--bg-botao);
+  box-shadow: 2px 2px 9px #1018280d;
+  border-radius: 8px;
+  padding: 0.5rem 1rem;
+}
