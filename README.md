@@ -16,6 +16,12 @@ Pagina estática em referencia a uma loja de produtos naturais.
 
 Seletor de Temas (dark,light, color) sem utilização de Js, feito apenas com CSS utilizando o atributo has().
 
+## MaluCakes
+
+![MaluCakes](/anotacoes-projetos/imgs/malucakes.png)
+
+[MaluCakes](/anotacoes-projetos/maluCakes.md)
+
 ### 💡 Dicas
 
 1. A Prática Leva à Perfeição
