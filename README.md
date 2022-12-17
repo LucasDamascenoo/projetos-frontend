@@ -1,6 +1,6 @@
 # Projetos Front-End
 
-Estes projetos tem a finalidade a pratica diaria das tecnologias envolvidas no univerdo front-end.
+Estes projetos tem a finalidade a pratica diaria das tecnologias envolvidas no universo front-end.
 
 # Prévia dos Projetos
 
