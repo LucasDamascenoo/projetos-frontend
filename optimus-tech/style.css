@@ -94,3 +94,27 @@ section about */
   text-align: center;
   line-height: 1.5rem;
 }
+
+/* section metricas */
+
+.metricas {
+  display: flex;
+  justify-content: space-around;
+}
+
+.metricas--number {
+  font-size: 3rem;
+  color: var(--color-numeros);
+}
+
+.metricas--cabecalho {
+  color: var(--color-headers);
+  font-size: 1.175rem;
+}
+
+.metricas--text {
+  font-size: 0.7rem;
+  /* font-weight: 400; */
+  max-width: 75%;
+  color: var(--color-text);
+}
