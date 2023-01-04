@@ -118,3 +118,37 @@ section about */
   max-width: 75%;
   color: var(--color-text);
 }
+
+/* section job */
+
+.job {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 5rem;
+}
+
+.job img {
+  width: 60vw;
+}
+
+.job--vaga {
+  background: #8e24240d;
+  border-radius: 10px;
+  color: var(--bg-botao);
+  font-size: 1rem;
+  padding: 0.2rem;
+}
+
+.job--title {
+  font-size: 2.25rem;
+  font-weight: 600;
+}
+
+.job--text {
+  color: var(--color-text);
+  font-weight: 400;
+  font-size: 1.25rem;
+}
