@@ -10,4 +10,8 @@ Fazer uma lading page de algum comércio local que não possui site.
 
 - [x] HTML
 - [x] CSS
-- [x] Sem-Responsividade
+- [x]FlexBox
+
+## O que Falta?
+
+- [x] Responsividade

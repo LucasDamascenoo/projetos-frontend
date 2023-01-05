@@ -22,6 +22,16 @@ Seletor de Temas (dark,light, color) sem utilização de Js, feito apenas com CS
 
 [MaluCakes](/anotacoes-projetos/maluCakes.md)
 
+## Optimus-Tech
+
+## Alura-Play
+
+![Alura-play-mobile](/aluraplay/img/Mobile-tablet.PNG)
+
+![Alura-play-desktop](/aluraplay/img/Desktop.PNG)
+
+[AluraPlay](/anotacoes-projetos/aluraPlay.md)
+
 ### 💡 Dicas
 
 1. A Prática Leva à Perfeição
