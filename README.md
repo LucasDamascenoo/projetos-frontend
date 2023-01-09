@@ -24,6 +24,9 @@ Seletor de Temas (dark,light, color) sem utilização de Js, feito apenas com CS
 
 ## Optimus-Tech
 
+![OptimusTech](/anotacoes-projetos/imgs/Optmus-Tech.png)
+[OptimusTech](/anotacoes-projetos/optimusTech.md)
+
 ## Alura-Play
 
 ![Alura-play-mobile](/aluraplay/img/Mobile-tablet.PNG)
