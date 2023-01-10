@@ -45,3 +45,7 @@ td {
 table {
   width: 100%;
 }
+
+.dynamic-text-color {
+  color: royalblue;
+}
