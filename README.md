@@ -35,6 +35,13 @@ Seletor de Temas (dark,light, color) sem utilização de Js, feito apenas com CS
 
 [AluraPlay](/anotacoes-projetos/aluraPlay.md)
 
+## Portfolio LucasOliveira
+
+![portfolio](/anotacoes-projetos/imgs/portfolio.png)
+[portfolio](/anotacoes-projetos/portfolio.md)
+
+[Deploy](https://portfolio-lucasoliveira.vercel.app/)
+
 ### 💡 Dicas
 
 1. A Prática Leva à Perfeição
