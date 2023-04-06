@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "roboto", sans-serif;
+  color: #334155;
+}
+
+.container {
+  width: 100vh;
+  display: flex;
+  justify-content: center;
+}
+a {
+  text-decoration: none;
+}
+
+.menu-container {
+  width: 100%;
+  max-width: 1200px;
+  display: flex;
+  justify-content: space-between;
+
+  padding-top: 2.124em;
+}
+
+.logo {
+  font-size: 2.25rem;
+  font-weight: black;
+  color: #5481e7;
+  text-transform: uppercase;
+}
+
+.logo span {
+  color: #334155;
+}
+.menu__links {
+  display: flex;
+  gap: 5.625rem;
+}
