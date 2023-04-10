@@ -42,6 +42,16 @@ Seletor de Temas (dark,light, color) sem utilização de Js, feito apenas com CS
 
 [Deploy](https://portfolio-lucasoliveira.vercel.app/)
 
+## AluraPlus
+
+![AluraPlus-Mobile](/anotacoes-projetos/imgs/AluraPlus-Mobile.png)
+![Aluraplus](/anotacoes-projetos/imgs/AluraPlus.png)
+
+[AluraPlus](/anotacoes-projetos/aluraPlus.md)
+
+[Deploy](https://portfolio-lucasoliveira.vercel.app/)
+
 ### 💡 Dicas
 
 1. A Prática Leva à Perfeição
+2. Consistência
