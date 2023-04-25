@@ -49,7 +49,7 @@ Seletor de Temas (dark,light, color) sem utilização de Js, feito apenas com CS
 
 [AluraPlus](/anotacoes-projetos/aluraPlus.md)
 
-[Deploy](https://portfolio-lucasoliveira.vercel.app/)
+[Deploy](https://projetos-aluraplus.vercel.app/)
 
 ### 💡 Dicas
 
