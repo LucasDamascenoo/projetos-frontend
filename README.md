@@ -51,6 +51,11 @@ Seletor de Temas (dark,light, color) sem utilização de Js, feito apenas com CS
 
 [Deploy](https://projetos-aluraplus.vercel.app/)
 
+## Fauxica
+
+![Fauxica](/anotacoes-projetos/imgs/fauxica.png)
+[Fauxica](/anotacoes-projetos/fauxica.md)
+
 ### 💡 Dicas
 
 1. A Prática Leva à Perfeição
