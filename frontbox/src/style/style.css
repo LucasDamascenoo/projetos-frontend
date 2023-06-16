@@ -40,6 +40,41 @@ hr {
   margin: 20px auto;
 }
 
+p {
+  line-height: 21.82px;
+  padding: 0 10px;
+}
+
+.section__title {
+  text-align: center;
+  font-size: 3rem;
+  margin-bottom: 10px;
+  font-weight: 400;
+}
+
+.somos {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.somos-c {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.somos-c__texto {
+  flex: 6 1 160px;
+}
+.somos-c__img {
+  flex: 1 1 350px;
+}
+
+.somos-c img {
+  display: block;
+  max-width: 100%;
+}
+
 .menu-bg {
   background-color: var(--clr-greeen-light);
 }
